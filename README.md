@@ -1,10 +1,10 @@
 <h2 align="center"> Hi 👋 , I'm SivaStu <br/></h2> 
 <h3 align="center">Also known as "Siva" to other people. <br> <br>
   <a href="https://github.com/sivastu" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/IsratIJK?label=Github%20followers&style=for-the-badge">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sivastu?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
-  <a href="https://github.com/IsratIJK" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=IsratIJK&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+  <a href="https://github.com/sivastu" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=sivastu&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
   </h3>   
                              
@@ -13,7 +13,7 @@
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=IsratIJK&theme=gruvbox"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=sivastu&theme=gruvbox"/>
   </a>
 </p>
 </details>
@@ -24,9 +24,9 @@
 <details>
    <summary>Github Stats of me:</summary>
 <div align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=IsratIJK&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sivastu&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
   <br>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsratIJK&layout=compact&theme=radical" width="350" height="250" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivastu&layout=compact&theme=radical" width="350" height="250" ></a>
 
 </div>
 </details> 
@@ -116,7 +116,7 @@ My Current Workstation Specification </h2>
 
 <h2>Connect with me!</h2>
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/IsratIJK/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/IsratIJK/)  
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sivstu/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/sivastu/)  
 
 
 
@@ -127,7 +127,7 @@ My Current Workstation Specification </h2>
 <br> <br>
 🌟 STAR THE REPOS IF YOU LIKE 🌟
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IsratIJK" alt="IsratIJK" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivastu" alt="sivastu" /></p>
 
 </div>
 
@@ -143,36 +143,13 @@ My Current Workstation Specification </h2>
 
 
 - :snowflake: If you want to check my profile of CP related various Online Judges, then: <br>
-:star: [Codeforces](https://codeforces.com/profile/IsratIJK) <br>
-:star: [Toph](https://toph.co/u/IsratIJK) <br>
-:star: [HackerRank](https://www.hackerrank.com/IsratIJK) <br>
+:star: [Codeforces](https://codeforces.com/profile/sivastu) <br>
+:star: [Toph](https://toph.co/u/sivastu) <br>
+:star: [HackerRank](https://www.hackerrank.com/sivastu) <br>
 :star: [URI](https://www.urionlinejudge.com.br/judge/en/profile/436965) <br>
-:star: [Dimik OJ](https://dimikoj.com/users/6472/IsratIJK) <br>
-:star: [CodeMarshal](https://algo.codemarshal.org/users/IsratIJK) <br>
+:star: [Dimik OJ](https://dimikoj.com/users/6472/sivastu) <br>
+:star: [CodeMarshal](https://algo.codemarshal.org/users/sivastu) <br>
 <i>Many more are coming soon...<i> :cupid:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br><br>
-
-
-<div align="center">
-  
-
-![IsratIJK's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IsratIJK&layout=compact&theme=radical)
-
-
-</div>
-
-
-<p align="center">
-
-<a href="https://github.com/FahimFBA/github-readme-twitter">
-<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=IsratIJK&layout=wide&show_reply=off&show_retweet=off" />
-</a>
-
-</p>
-
-
-----------
-Credit: [IsratIJK](https://github.com/IsratIJK)
-Last Edited on: 03/09/2021
