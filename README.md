@@ -1,4 +1,6 @@
-<h2 align="center"> Hi 👋 , I'm SivaStu <br/></h2> 
+<h2 align="center"> Hi 👋 , I'm SivaStu <a href="https://sivastu.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/PortFolio-%230077B5.svg?&style=for-the-badge&logoColor=white" />
+  </a></h2><br/> 
 <h3 align="center">Also known as "Siva" to other people. <br> <br>
   <a href="https://github.com/sivastu" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sivastu?label=Github%20followers&style=for-the-badge">
@@ -6,6 +8,7 @@
   <a href="https://github.com/sivastu" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=sivastu&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
+  
   </h3>   
                              
                     
@@ -27,6 +30,7 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sivastu&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
   <br>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivastu&layout=compact&theme=radical" width="350" height="250" ></a>
+  
 
 </div>
 </details> 
