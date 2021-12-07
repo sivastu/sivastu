@@ -33,10 +33,10 @@
  
 
  
-Let me introduce myself  :girl: 
+Let me introduce myself  :boy: 
 
-- 🔭 I’m currently working on [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature). Sometimes I try to work on some short personal projects of mine.
-- :art: <b>Hobby:</b> Attending in [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature), watching anime series, movies, English TV series and so on. I was a bookworm earlier even though I don't read that much nowadays. :disappointed: I love tech-related stuff whether it could be :iphone: or :computer: related stuff although I keep decent knowledge regarding :computer:  
+- 🔭 I’m currently working on [Ordinal Tech](https://www.ordinal.in/). Sometimes I try to work on some short personal projects of mine.
+- :art: <b>Hobby:</b> Attending in [social improve activity](#), watching anime series, movies, English TV series and so on. I was a bookworm earlier even though I don't read that much nowadays. :disappointed: I love tech-related stuff whether it could be :iphone: or :computer: related stuff although I keep decent knowledge regarding :computer:  
 - :high_brightness: <b>Special quality:</b> <br>
         :beginner: Problem Solving <br>
         :beginner: Tech Enthusiasts <br>
@@ -48,19 +48,12 @@ Let me introduce myself  :girl:
  Technologies and Languages 
 </h2>
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/react-ED8B00?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/reactnative-ED8B90?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=Javascript&logoColor=white)
 ![Microsoft Exel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
@@ -77,7 +70,7 @@ My Current Workstation Specification </h2>
 ![Laptop](https://img.shields.io/badge/Windows-ASUS-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 <br>
 
-![CPU](https://img.shields.io/badge/Intel-Core_i3_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![CPU](https://img.shields.io/badge/Intel-Core_i3_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
  
   
 
@@ -116,7 +109,7 @@ My Current Workstation Specification </h2>
 
 <h2>Connect with me!</h2>
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sivstu/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/sivastu/)  
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/siva-a-5a6bbb152) 
 
 
 
@@ -140,16 +133,4 @@ My Current Workstation Specification </h2>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-- :snowflake: If you want to check my profile of CP related various Online Judges, then: <br>
-:star: [Codeforces](https://codeforces.com/profile/sivastu) <br>
-:star: [Toph](https://toph.co/u/sivastu) <br>
-:star: [HackerRank](https://www.hackerrank.com/sivastu) <br>
-:star: [URI](https://www.urionlinejudge.com.br/judge/en/profile/436965) <br>
-:star: [Dimik OJ](https://dimikoj.com/users/6472/sivastu) <br>
-:star: [CodeMarshal](https://algo.codemarshal.org/users/sivastu) <br>
-<i>Many more are coming soon...<i> :cupid:
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br><br>
