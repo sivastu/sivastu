@@ -39,7 +39,7 @@
  
 Let me introduce myself  :boy: 
 
-- 🔭 I’m currently working on [Ordinal Tech](https://www.ordinal.in/). Sometimes I try to work on some short personal projects of mine.
+- 🔭 I’m currently working on [Ak info park](https://akinfopark.com/). Sometimes I try to work on some short personal projects of mine.
 - :art: <b>Hobby:</b> Attending in [social improve activity](#), watching anime series, movies, English TV series and so on. I was a bookworm earlier even though I don't read that much nowadays. :disappointed: I love tech-related stuff whether it could be :iphone: or :computer: related stuff although I keep decent knowledge regarding :computer:  
 - :high_brightness: <b>Special quality:</b> <br>
         :beginner: Problem Solving <br>
