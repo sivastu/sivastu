@@ -1,4 +1,4 @@
-<h2 align="center"> Hi 👋 , I'm SivaStu <a href="https://sivastu.github.io/" target="_blank">
+<h2 align="center"> Hi 👋 , I'm Siva <a href="https://sivastu.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/PortFolio-%230077B5.svg?&style=for-the-badge&logoColor=white" />
   </a></h2><br/> 
 <h3 align="center">Also known as "Siva" to other people. <br> <br>
